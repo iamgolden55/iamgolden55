@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Hover effects for cursor
     const interactiveElements = document.querySelectorAll('a, button, input, textarea');
-    
+
     interactiveElements.forEach(el => {
         el.addEventListener('mouseenter', () => {
             cursorOutline.style.width = '60px';
