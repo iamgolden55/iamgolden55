@@ -139,7 +139,7 @@ me = Golden()
 │   📧 Email:     [eruwagolden55@yahoo.com]                        │
 │   💼 LinkedIn:  [www.linkedin.com/in/ninioritse-eruwa-181537195] │
 │   🐦 Twitter:   [https://x.com/EruwaGreat]                       │
-│   🌐 Portfolio: [yourportfolio.com]                              │
+│   🌐 Portfolio: [https://iamgolden55.vercel.app]                 │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
