@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 GOLDEN
+# @iamgolden55
 
 ```ascii
  ██████╗  ██████╗ ██╗     ██████╗ ███████╗███╗   ██╗
